@@ -1,6 +1,6 @@
 # 👋 Hola, soy Anderson Ferrucho
 
-Soy desarrollador de software con más de 7 años de experiencia en desarrollo de aplicaciones y soluciones tecnológicas.  
+Soy ingeniero de sistemas con enfoque profesional en desarrollador de software, tengo más de 7 años de experiencia en desarrollo de aplicaciones y soluciones tecnológicas.  
 He trabajado en proyectos que abarcan desarrollo backend, aplicaciones web, integración de servicios y desarrollo móvil.
 
 Actualmente participo en proyectos empresariales donde he trabajado con tecnologías como **.NET, Azure, APIs REST, arquitectura limpia y procesos de migración tecnológica**. También tengo experiencia desarrollando soluciones propias y prototipos que exploran diferentes arquitecturas y herramientas.
