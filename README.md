@@ -43,6 +43,7 @@ Algunas de las tecnologías con las que he trabajado:
 
 ## 📍 Flutter Geo Location App
 Aplicación móvil desarrollada en **Flutter** que permite visualizar y gestionar ubicaciones en un mapa.
+https://github.com/alnass/geolocalizacion
 
 Características principales:
 
@@ -62,6 +63,7 @@ Tecnologías utilizadas:
 
 ## 🌐 PHP Login Web App
 Aplicación web base desarrollada en **PHP** que implementa un sistema de autenticación.
+https://github.com/alnass/login-base
 
 Funcionalidades:
 
@@ -80,6 +82,7 @@ Tecnologías utilizadas:
 
 ## 🔌 REST API Proof of Concept
 Proyecto de prueba para la construcción de una **API REST** que permite gestionar recursos mediante endpoints HTTP.
+https://github.com/alnass/rest
 
 Incluye:
 
@@ -111,8 +114,8 @@ Este repositorio busca:
 
 Si deseas contactar conmigo o conocer más sobre mi trabajo:
 
-- GitHub: https://github.com/tuusuario
-- LinkedIn: (opcional)
+- GitHub: https://github.com/alnass
+- LinkedIn: www.linkedin.com/in/anderson-ferrucho-b862b2128
 
 ---
 
